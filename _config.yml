@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "" # Do not need a site title as details will be pulled from individual pages.
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Souvika Sarkar"
 description              : &description "Personal academic portfolio"
 url                      : https://souvikasarkar.github.io
