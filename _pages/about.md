@@ -18,9 +18,13 @@ I have extensive industry experience as an IT Analyst at Tata Consultancy Servic
 
 News
 ======
-* [Aug 2024] I joined the School of Computing at Wichita State University as a tenure-track Assistant Professor.
-* Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-* Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-* Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-* Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-* Check status by going to the repository settings, in the "GitHub pages" section
+* `Aug 2024` I joined the School of Computing at Wichita State University as a tenure-track Assistant Professor.
+* `Jul 2024` Successfully defended my Ph.D. dissertation "Zero-Shot Multi-Label Topic Inference" at Auburn University. 
+* `May 2024` Our paper "Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?" was accepted at ACM/SPEC International Conference on Performance Engineering (ICPE'24).
+* `Apr 2024` Recipient of Auburn University's Outstanding Doctoral Student Award (2024).
+* `Nov 2023` Our paper "Zero-Shot Multi-Label Topic Inference with Sentence Encoders & LLMs" was accepted at EMNLP 2023.  
+* `Oct 2023` Awarded the 100+ Women Strong Outstanding Departmental Annual Graduate Award (2023).
+<details>
+  <summary>2022</summary>
+  `Jun 2022` Our paper "Exploring Universal Sentence Encoders for Zero-shot Text Classification" was accepted at AACL-IJCNLP 2022.
+</details>
