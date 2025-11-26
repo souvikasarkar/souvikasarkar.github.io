@@ -16,15 +16,22 @@ Beyond Academia
 ======
 I have extensive industry experience as an IT Analyst at Tata Consultancy Services (TCS), where I worked on Microsoft Office SharePoint server management, Office 365 migrations, and workflow automation to enhance enterprise processes.
 
-News
-======
-* `Aug 2024` I joined the School of Computing at Wichita State University as a tenure-track Assistant Professor.
-* `Jul 2024` Successfully defended my Ph.D. dissertation "Zero-Shot Multi-Label Topic Inference" at Auburn University. 
-* `May 2024` Our paper "Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?" was accepted at ACM/SPEC International Conference on Performance Engineering (ICPE'24).
-* `Apr 2024` Recipient of Auburn University's Outstanding Doctoral Student Award (2024).
-* `Nov 2023` Our paper "Zero-Shot Multi-Label Topic Inference with Sentence Encoders & LLMs" was accepted at EMNLP 2023.  
-* `Oct 2023` Awarded the 100+ Women Strong Outstanding Departmental Annual Graduate Award (2023).
-<details>
-  <summary>2022</summary>
-  `Jun 2022` Our paper "Exploring Universal Sentence Encoders for Zero-shot Text Classification" was accepted at AACL-IJCNLP 2022.
-</details>
+## News
+
+2024
+
+: `Aug 2024` I joined the School of Computing at Wichita State University as a tenure-track Assistant Professor.
+: `Jul 2024` Successfully defended my Ph.D. dissertation "Zero-Shot Multi-Label Topic Inference" at Auburn University. 
+: `May 2024` Our paper "Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?" was accepted at ACM/SPEC International Conference on Performance Engineering (ICPE'24).
+: `Apr 2024` Recipient of Auburn University's Outstanding Doctoral Student Award (2024).
+
+2023
+
+: `Nov 2023` Our paper "Zero-Shot Multi-Label Topic Inference with Sentence Encoders & LLMs" was accepted at EMNLP 2023.  
+: `Oct 2023` Awarded the 100+ Women Strong Outstanding Departmental Annual Graduate Award (2023).
+
+2022
+
+: `Jun 2022` Our paper "Exploring Universal Sentence Encoders for Zero-shot Text Classification" was accepted at AACL-IJCNLP 2022.
+: `May 2022` Our paper "Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making" was published in ACM Transactions on Intelligent Systems and Technology.
+: `Apr 2022` Our paper "Concept Annotation from Users Perspective: A New Challenge" was presented at WWW UserNLP 2022.
